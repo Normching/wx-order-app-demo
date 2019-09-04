@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "点单",
+  "usingComponents": {
+    "van-popup": "../../../static/vant/popup/index",
+    "van-submit-bar": "../../../static/vant/submit-bar/index",
+    "van-stepper": "../../../static/vant/stepper/index",
+    "van-notify": "../../../static/vant/notify/index",
+    "van-dialog": "../../../static/vant/dialog/index"
+
+  }
+}

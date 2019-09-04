@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/personal/main",
+    "pages/pay/main",
+    "pages/selectAdress/main",
+    "pages/order/main"
+
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#6e89dd"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "位置信息"
+    }
+  },
+  "tabBar": {
+    "position": "bottom",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/main",
+        "iconPath": "/static/tabs/home.png",
+        "selectedIconPath": "/static/tabs/home-active.png"
+      },
+      {
+        "pagePath": "pages/order/main",
+        "text": "点单",
+        "iconPath": "/static/tabs/cart.png",
+        "selectedIconPath": "/static/tabs/cart-active.png"
+      },
+      {
+        "pagePath": "pages/personal/main",
+        "text": "我的",
+        "iconPath": "/static/tabs/user.png",
+        "selectedIconPath": "/static/tabs/user-active.png"
+      }
+    ]
+  }
+}

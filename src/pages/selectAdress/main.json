@@ -1,0 +1,19 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "van-radio": "../../../static/vant/radio/index",
+    "van-radio-group": "../../../static/vant/radio-group/index",
+    "van-cell": "../../../static/vant/cell/index",
+    "van-cell-group": "../../../static/vant/cell-group/index",
+    "van-area": "../../../static/vant/area/index",
+    "van-submit-bar": "../../../static/vant/submit-bar/index",
+    "van-dialog": "../../../static/vant/dialog/index",
+    "van-nav-bar": "../../../static/vant/nav-bar/index",
+    "van-popup": "../../../static/vant/popup/index",
+    "van-field": "../../../static/vant/field/index",
+    "van-collapse": "../../../static/vant/collapse/index",
+    "van-collapse-item": "../../../static/vant/collapse-item/index",
+    "van-toast": "../../../static/vant/toast/index"
+  }
+}
+
